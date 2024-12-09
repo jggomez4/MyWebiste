@@ -1,3 +1,79 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca0314bbd240dfb5a30aa00449f07e7c1acec708a4d2b0d65296364bc2f80f46
-size 1021
+/****************************TAG SELECTORS*******************************************************/
+body {
+  background-color: #5d5d5d;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #114d12;
+  border-width: 10px;
+  width: 100%;
+}
+
+
+h1 {
+
+  color: #000000;
+  text-align: center;
+}
+
+h2 {
+
+  color: #000000;
+  text-align: center;
+}
+
+p {
+  color: #000000;
+}
+
+
+td {
+  color: #000000;
+  text-align: center; 
+  vertical-align: middle;
+}
+
+
+table {
+  margin: auto;
+}
+
+
+form {
+  text-align: center; 
+  vertical-align: middle;
+}
+
+
+img {
+  margin: auto;
+}
+
+
+/****************************CLASS SELECTORS****************************************************/
+
+.content{
+  max-width: 500px;
+  margin: auto;
+}
+
+.h1{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+/****************************ID SELECTORS****************************************************/
